@@ -1784,7 +1784,7 @@ ul.portfolio-image li .desc{
   clear: both;
 }
 .grid-item {
-  width: 33.333%;
+  width: 100%;
   float: left;
   top: 0px;
   left: 0px;

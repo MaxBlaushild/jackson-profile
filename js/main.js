@@ -6,10 +6,10 @@
     $("#preloader").delay(450).fadeOut("slow"); // will fade out the white DIV that covers the website.
     
     //masonry
-    $('.grid').masonry({
-      itemSelector: '.grid-item'
+    // $('.grid').masonry({
+    //   itemSelector: '.grid-item'
       
-    });    
+    // });    
   });
 
   /*----------------------------------------------------*/
